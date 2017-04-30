@@ -6,7 +6,7 @@
     * [基本类型](CHAPTER1/1.md)
 * [语法基础](CHAPTER2/README.md)
     * [基本语法](CHAPTER2/1.md)
-    * [基本类型](CHAPTER2/2.md)
+    * [函数定义与调用](CHAPTER2/2.md)
     * [参数类型](CHAPTER2/3.md)
 * [开发进阶](CHAPTER3/README.md)
     * [KVO原理](CHAPTER3/1.md)
