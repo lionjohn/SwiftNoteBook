@@ -17,6 +17,7 @@
 * [学习笔记](CHAPTER4/README.md)
     * [学习笔记1](CHAPTER4/1.md)
     * [学习笔记2](CHAPTER4/2.md)
+    * [required修饰符](CHAPTER4/required.md)
 * [附录](APPENDIX/README.md)
     * [Swift 3.0更新内容（一）](APPENDIX/swift_3_update.md)
     * [Swift 3.0更新内容（二）](APPENDIX/swift_3_update_2.md)
