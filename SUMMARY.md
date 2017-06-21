@@ -18,8 +18,10 @@
     * [学习笔记1](CHAPTER4/1.md)
     * [学习笔记2](CHAPTER4/2.md)
     * [required修饰符](CHAPTER4/required.md)
+    * [Swift 值类型,引用类型,深拷贝,浅拷贝,Copy,MutableCopy](CHAPTER4/swiftcopy.md)
 * [附录](APPENDIX/README.md)
     * [Swift 3.0更新内容（一）](APPENDIX/swift_3_update.md)
     * [Swift 3.0更新内容（二）](APPENDIX/swift_3_update_2.md)
+    * [Swift 4.0新功能汇总](APPENDIX/swift_4_update_1.md)
     * [附录2](APPENDIX/2.md)
 
